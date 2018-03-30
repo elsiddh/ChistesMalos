@@ -1,0 +1,2 @@
+- ¿Por qué a Java le cae mal Javascript?
+- Porque no tiene clase.
